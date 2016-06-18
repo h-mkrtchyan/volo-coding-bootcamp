@@ -17,7 +17,7 @@ namespace Delegates
 
     class AsusQ502LA
     {
-
+        string a = "Hakob";
     }
 
 }
