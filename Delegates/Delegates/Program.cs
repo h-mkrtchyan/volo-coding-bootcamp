@@ -17,7 +17,10 @@ namespace Delegates
 
     class AsusQ502LA
     {
+        public AsusQ502LA()
+        {
 
+        }
     }
 
 }
