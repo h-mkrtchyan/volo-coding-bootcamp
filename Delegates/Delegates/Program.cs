@@ -14,4 +14,10 @@ namespace Delegates
             Console.WriteLine("Hello Git from Asus K52DR");
         }
     }
+
+    class AsusQ502LA
+    {
+
+    }
+
 }
